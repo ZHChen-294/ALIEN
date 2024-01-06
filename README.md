@@ -5,6 +5,7 @@ Created by [ZHihong Chen](https://github.com/ZHChen-294), [Lisha Yao](https://gi
 This repository contains PyTorch implementation for ALIEN.
 
 Paper: **ALIEN**: **A**ttention-Guided Cross-Reso**L**ut**I**on Collaborativ**E** **N**etwork for 3D Gastric Cancer Segmentation in CT Images
+
 Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revising).
 * An attention-guided collaborative network for 3D gastric cancer segmentation in CT images.
 * Multi-attention fusion module enhances the encoding capacity, addressing the issue of over-segmentation.

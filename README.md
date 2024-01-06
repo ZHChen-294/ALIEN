@@ -1,6 +1,6 @@
 # ALIEN
 
-Created by [ZHihong Chen](https://github.com/ZHChen-294), [Lisha Yao](https://github.com/yaols-GDMIALab), Yanfen Cui, Yunlin Zheng, Xiaorui Han, Xuewei Kang, Xin Chen, Wenbin Liu, Chu Han, Zaiyi Liu, Bingjiang Qiu, Gang Fang
+Created by [Zhihong Chen](https://github.com/ZHChen-294), [Lisha Yao](https://github.com/yaols-GDMIALab), Yanfen Cui, Yunlin Zheng, Xiaorui Han, Xuewei Kang, Xin Chen, Wenbin Liu, Chu Han, Zaiyi Liu, Bingjiang Qiu, Gang Fang
 
 This repository contains PyTorch implementation for ALIEN.
 

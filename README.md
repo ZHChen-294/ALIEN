@@ -6,7 +6,7 @@ Created by [ZHihong Chen](https://github.com/ZHChen-294), [Lisha Yao](https://gi
 * Multi-attention fusion module enhances the encoding capacity, addressing the issue of over-segmentation.
 * Cross-resolution fusion module facilitates the simultaneous capture of detailed and high-level semantic information.
 * Scale-aware activation module selectively extracts and integrates specific patterns from decoded features for feature refinement.
-* Submitted to [Biomedical Signal Processing and Control](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revision).
+* Submitted to [**Biomedical Signal Processing and Control**](https://www.sciencedirect.com/journal/biomedical-signal-processing-and-control) (In Revision).
 
 Code: https://github.com/ZHChen-294/ALIEN
 

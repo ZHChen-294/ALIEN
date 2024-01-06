@@ -1,7 +1,7 @@
 import argparse
 import logging
 import os
-os.environ["CUDA_VISIBLE_DEVICES"] = '0'
+os.environ["CUDA_VISIBLE_DEVICES"] = '0, 1, 2, 3'
 
 import torch
 import torch.nn as nn

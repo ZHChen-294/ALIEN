@@ -1,7 +1,8 @@
-# ALIEN: **A**ttention-Guided Cross-Resolution Collaborative Network for 3D Gastric Cancer Segmentation in CT Images
+# ALIEN
 
 Created by [ZHihong Chen](https://github.com/ZHChen-294), [Lisha Yao](https://github.com/yaols-GDMIALab), Yanfen Cui, Yunlin Zheng, Xiaorui Han, Xuewei Kang, Xin Chen, Wenbin Liu, Chu Han, Zaiyi Liu, Bingjiang Qiu, Gang Fang
 
+Paper:ALIEN: **A**ttention-Guided Cross-Reso**L**ut**I**on Collaborativ**E** **N**etwork for 3D Gastric Cancer Segmentation in CT Images
 * An attention-guided collaborative network for 3D gastric cancer segmentation in CT images.
 * Multi-attention fusion module enhances the encoding capacity, addressing the issue of over-segmentation.
 * Cross-resolution fusion module facilitates the simultaneous capture of detailed and high-level semantic information.
